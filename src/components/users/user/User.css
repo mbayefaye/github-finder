@@ -1,0 +1,17 @@
+.card {
+    padding: 1rem;
+    border: #ccc 1px dotted;
+    margin: 0.7rem 0;
+}
+
+.round-img {
+    border-radius: 50%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.my-1 {
+    margin: 1rem 0;
+}
